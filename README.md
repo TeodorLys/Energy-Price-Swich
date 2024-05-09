@@ -1,4 +1,4 @@
-# Energy Price Swich(EPS) SWEDEB
+# Energy Price Swich(EPS) SWEDEN
 I a standalone microcontroller that has WiFi capabilities.
 It looks up the price per kWh and turns a switch on based on some threshold.
 
